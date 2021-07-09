@@ -1,0 +1,25 @@
+#panel {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#panel .panel-button {
+  background-color: rgba(30, 31, 41, 0.9);
+  border-radius: 0.6em;
+  color: white;
+}
+
+#panel .panel-button:hover {
+  background-color: rgba(207, 218, 228, 0.8);
+  color: black;
+}
+
+#panel .panel-button:active {
+  background-color: rgba(207, 218, 228, 0.6);
+  color: black;
+}
+
+
+#panel #panelLeft {
+  spacing: 0px; }
+#panel #panelLeft .panel-button {
+  spacing: 0px; }
